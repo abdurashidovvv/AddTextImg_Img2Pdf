@@ -1,0 +1,1 @@
+package com.abdurashidov.imgwriteimport android.graphics.Bitmapobject MyData {    var bitmap:Bitmap?=null}
